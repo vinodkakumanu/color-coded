@@ -1,4 +1,4 @@
-# Color Coded - Istio + Helm + Codefresh Demo App
+# Color Coded - Istio + Helm + Codefresh Demo App demo
 
 <img src="https://codefresh.io/wp-content/uploads/2018/06/Color-coded.svg" width="200px">
 
